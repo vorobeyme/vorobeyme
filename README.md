@@ -17,7 +17,7 @@ I'm [@ches](#hello), a Backend Engineer from 🇺🇦 Kyiv, Ukraine.
 ![image](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
 
-<picture>
+<!--picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/vorobeyme/vorobeyme/output/github-contribution-grid-snake-dark.svg" />
@@ -27,4 +27,4 @@ I'm [@ches](#hello), a Backend Engineer from 🇺🇦 Kyiv, Ukraine.
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/vorobeyme/vorobeyme/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture-->
