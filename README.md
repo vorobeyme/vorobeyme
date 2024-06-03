@@ -2,6 +2,7 @@
 
 I'm [@ches](#hello), a Backend Engineer from 🇺🇦 Kyiv, Ukraine.
 
+<!--
 ![image](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -17,7 +18,7 @@ I'm [@ches](#hello), a Backend Engineer from 🇺🇦 Kyiv, Ukraine.
 ![image](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
 
-<!--picture>
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/vorobeyme/vorobeyme/output/github-contribution-grid-snake-dark.svg" />
@@ -27,4 +28,5 @@ I'm [@ches](#hello), a Backend Engineer from 🇺🇦 Kyiv, Ukraine.
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/vorobeyme/vorobeyme/output/github-contribution-grid-snake.svg" />
-</picture-->
+</picture>
+-->
